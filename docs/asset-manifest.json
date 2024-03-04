@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ssr-app/static/css/main.f855e6bc.css",
+    "main.js": "/ssr-app/static/js/main.479553a6.js",
+    "static/js/453.89b0b422.chunk.js": "/ssr-app/static/js/453.89b0b422.chunk.js",
+    "index.html": "/ssr-app/index.html",
+    "main.f855e6bc.css.map": "/ssr-app/static/css/main.f855e6bc.css.map",
+    "main.479553a6.js.map": "/ssr-app/static/js/main.479553a6.js.map",
+    "453.89b0b422.chunk.js.map": "/ssr-app/static/js/453.89b0b422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.479553a6.js"
+  ]
+}
